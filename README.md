@@ -117,7 +117,7 @@ python3 Aligner.py
 
 ## 🏷️ Tags
 
-#Bioinformatics #Python #NeedlemanWunsch #GlobalAlignment #BLOSUM62 #Heatmap #SequenceAlignment #PortfolioProject #FASTA
+`Bioinformatics` `Python` `NeedlemanWunsch` `GlobalAlignment` `BLOSUM62` `Heatmap` `SequenceAlignment` `FASTA`
 
 ---
 
@@ -127,9 +127,9 @@ Arunannamalai Sujatha Bharath Raj
 
 📧 [arun03bt@gmail.com]
 
-🔗 https://www.linkedin.com/in/arunannamalai-sb-823351344/
+🔗 [https://www.linkedin.com/in/arunannamalai-sb-823351344/](https://www.linkedin.com/in/arun-823351344/)
 
-🐙 https://github.com/Arun0364
+🐙 [https://github.com/Arun0364](https://github.com/Arun0364)
 
 ---
 
