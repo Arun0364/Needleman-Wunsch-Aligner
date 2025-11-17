@@ -1,5 +1,10 @@
 # 🧬 Needleman-Wunsch Aligner with BLOSUM62 + Heatmap
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Data](https://img.shields.io/badge/Data-FASTA_sequences-orange)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 A Python-based global sequence alignment tool implementing the **Needleman-Wunsch algorithm** with **BLOSUM62 scoring** and a **heatmap visualization** of the dynamic programming matrix using `seaborn`.
 
 ---
