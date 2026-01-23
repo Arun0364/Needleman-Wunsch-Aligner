@@ -1,5 +1,10 @@
 # 🧬 Needleman-Wunsch Aligner with BLOSUM62 + Heatmap
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Data](https://img.shields.io/badge/Data-FASTA_sequences-orange)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 A Python-based global sequence alignment tool implementing the **Needleman-Wunsch algorithm** with **BLOSUM62 scoring** and a **heatmap visualization** of the dynamic programming matrix using `seaborn`.
 
 ---
@@ -33,23 +38,24 @@ A Python-based global sequence alignment tool implementing the **Needleman-Wunsc
 ## 🧪 Sample Input/Output
 
 ### Example Input
-
-Enter name for first sequence: Sequence 1
+```
+Enter name for first sequence: Seq 1
 Enter first sequence: HEAGAWGHEE
-Enter name for second sequence: Sequence 2
+Enter name for second sequence: Seq 2
 Enter second sequence: PAWHEAE
+```
 
 ### Example Output
-
+```
 Final Alignment Score: 12
 
 Aligned Sequences:
 Seq1: HEAGAWGHE-E
-          || || |
+      ----||-||-|
 Seq2: --P-AW-HEAE
 
 ✅ Alignment saved to alignment.fasta
-
+```
 ### Heatmap Output
 
 <p align="center">
@@ -116,7 +122,7 @@ python3 Aligner.py
 
 ## 🏷️ Tags
 
-#Bioinformatics #Python #NeedlemanWunsch #GlobalAlignment #BLOSUM62 #Heatmap #SequenceAlignment #PortfolioProject #FASTA
+`Bioinformatics` `Python` `NeedlemanWunsch` `GlobalAlignment` `BLOSUM62` `Heatmap` `SequenceAlignment` `FASTA`
 
 ---
 
@@ -126,19 +132,19 @@ Arunannamalai Sujatha Bharath Raj
 
 📧 [arun03bt@gmail.com]
 
-🔗 https://www.linkedin.com/in/arunannamalai-sb-823351344/
+🔗 [https://www.linkedin.com/in/arunannamalai-sb-823351344/](https://www.linkedin.com/in/arun-823351344/)
 
-🐙 https://github.com/Arun0364
+🐙 [https://github.com/Arun0364](https://github.com/Arun0364)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ❤️ Acknowledgments
+## ❤️ Acknowledgements
 
 Biopython for substitution matrices
 
