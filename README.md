@@ -132,7 +132,7 @@ Arunannamalai Sujatha Bharath Raj
 
 📧 [arun03bt@gmail.com]
 
-🔗 🔗 [linkedin.com/in/arun-sujatha](https://www.linkedin.com/in/arun-sujatha)
+🔗 [linkedin.com/in/arun-sujatha](https://www.linkedin.com/in/arun-sujatha)
 
 🐙 [https://github.com/Arun0364](https://github.com/Arun0364)
 
