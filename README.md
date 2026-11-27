@@ -25,13 +25,12 @@ A Python-based global sequence alignment tool implementing the **Needleman-Wunsc
 
 ## 🚀 Project Structure
 
-```NeedlemanWunschAligner/
-├── Aligner.py              # Main Needleman-Wunsch alignment script with BLOSUM62 scoring
-├── README.md               # Documentation for the project
-├── example_output.png      # Sample output heatmap of the alignment matrix
-└── sequences/              # Folder containing sample input sequences
-    ├── sample1.txt
-    └── sample2.txt
+```Needleman-Wunsch-Aligner/
+├── Aligner.py              # Needleman-Wunsch alignment with BLOSUM62 scoring
+├── alignment.fasta         # Example aligned output
+├── alignment_heatmap.png   # Example scoring-matrix heatmap with traceback path
+├── README.md
+└── LICENSE
 ```
 ---
 
