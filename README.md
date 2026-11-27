@@ -80,8 +80,8 @@ pip3 install biopython pandas seaborn matplotlib
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/NeedlemanWunschAligner.git
-cd NeedlemanWunschAligner
+git clone https://github.com/Arun0364/Needleman-Wunsch-Aligner.git
+cd Needleman-Wunsch-Aligner
 
 ```
 2. Run the program:
@@ -132,7 +132,7 @@ Arunannamalai Sujatha Bharath Raj
 
 📧 [arun03bt@gmail.com]
 
-🔗 [https://www.linkedin.com/in/arunannamalai-sb-823351344/](https://www.linkedin.com/in/arun-823351344/)
+🔗 🔗 [linkedin.com/in/arun-sujatha](https://www.linkedin.com/in/arun-sujatha)
 
 🐙 [https://github.com/Arun0364](https://github.com/Arun0364)
 
